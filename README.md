@@ -25,3 +25,5 @@ The **Batch Email Sender** is an application that allows users to send personali
    ```bash
    git clone https://github.com/your_username/batch-email-sender.git
    cd batch-email-sender
+   pip install -r requirements.txt
+   python mail_sender.py
